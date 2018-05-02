@@ -10,3 +10,4 @@ My favorite Go packages
 
 ## CLI
 - https://github.com/gizak/termui
+- https://github.com/buger/goterm
