@@ -7,3 +7,6 @@ My favorite Go packages
 
 ## Logging
 - https://github.com/uber-go/zap
+
+## CLI
+- https://github.com/gizak/termui
