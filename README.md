@@ -9,5 +9,6 @@ My favorite Go packages
 - https://github.com/uber-go/zap
 
 ## CLI
+- https://github.com/spf13/cobra
 - https://github.com/gizak/termui
 - https://github.com/buger/goterm
